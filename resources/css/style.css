@@ -1,9 +1,34 @@
+h1 {
+  font-size: 70px
+  font-family: helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-family: helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
 h3 {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: helvetica;
   text-align: center;
 }
 
 p {
   text-align: center;
+  font-family: helvetica;
+  font-size: 14px;
 }
 
 .squiggle {
@@ -11,5 +36,9 @@ p {
 }
 
 .circle {
+  text-align: center;
+}
+
+.arrow {
   text-align: center;
 }
