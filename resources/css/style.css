@@ -30,6 +30,22 @@ h4 {
   text-decoration: underline;
 }
 
+a:link{
+  color:white;
+}
+a:visited{
+  color:white;
+}
+a:hover{
+  color:white;
+}
+a:focus{
+  color:white;
+}
+a:active{
+  color:white;
+}
+
 h5 {
   color: white;
   font-family: helvetica;
